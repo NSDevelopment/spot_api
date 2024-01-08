@@ -1,0 +1,4 @@
+{
+  "volume_change_limit": 10000,
+  "price_change_limit": 10
+}
